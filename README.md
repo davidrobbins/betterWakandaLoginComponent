@@ -12,6 +12,8 @@ This Wakanda Component Set provides a custom interface for authenticating users 
 
 * On your interface page drag a component widget onto your page. From the Styles section of the Properties Area make the width 625 and the height 86.
 
+* In the web component widget Properties panel point Web component path to the login component : /login.waComponent
+
 * That's all folks. 
 
 
