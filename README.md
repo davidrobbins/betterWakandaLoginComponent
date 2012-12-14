@@ -4,7 +4,7 @@ This Wakanda Component Set provides a custom interface for authenticating users 
 
 ## Quickstart
 
-* Download Wakanda from http://wakanda.org/downloads/
+* Download Wakanda 3 Production Release from http://wakanda.org/downloads/   
 
 * Launch Wakanda Studio and open your existing project or create a new one.
 
